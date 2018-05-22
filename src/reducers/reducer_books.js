@@ -12,5 +12,8 @@ export default function () {
 		{
 			title: 'Clean Code'
 		},
+		{
+			title: 'Cracking the coding interview'
+		},
 	];
-}
+};
