@@ -1,13 +1,7 @@
 export default function () {
 	return [
 		{
-			title: 'JavaScript: The Good Parts'
-		},
-		{
 			title: 'You Don\'t Know JS'
-		},
-		{
-			title: 'Pragmatic Programmer'
 		},
 		{
 			title: 'Clean Code'
@@ -15,5 +9,11 @@ export default function () {
 		{
 			title: 'Cracking the coding interview'
 		},
+		{
+			title: 'Pragmatic Programmer'
+		},
+		{
+			title: 'JavaScript: The Good Parts'
+		},
 	];
-};
+}; 
