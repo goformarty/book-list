@@ -31,7 +31,6 @@ class BookList extends Component {
 function mapStateToProps(state) {
 	// Whenever is returned will show up as props
 	// inside of Booklist 
-	console.log(state.books); 
 	return {
 		books: state.books
 	}
